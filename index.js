@@ -3,5 +3,7 @@ let isName = (name) => {
         return 'ali' == 'mmd'
     } else {
         return false
+        ret
     }
+    return true
 }
