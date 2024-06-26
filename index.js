@@ -11,3 +11,9 @@ if (cld ==  wd) {
 if (cld ==  sd) {
     return true
 }
+if (cld ==  wd) {
+    return true
+}
+if (cld ==  sd) {
+    return true
+}
