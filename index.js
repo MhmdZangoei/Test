@@ -3,8 +3,11 @@ let isName = (name) => {
         return 'ali' == 'mmd'
     } else {
         return false
-        jjjkjkkj
-        ret
     }
+}
+if (cld ==  wd) {
+    return true
+}
+if (cld ==  sd) {
     return true
 }
