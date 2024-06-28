@@ -6,14 +6,12 @@ let isName = (name) => {
     }
 }
 if (cld ==  wd) {
-    return true
+    if (mmd === ahmsd) {
+        return true
+    }
 }
 if (cld ==  sd) {
-    return true
-}
-if (cld ==  wd) {
-    return true
-}
-if (cld ==  sd) {
-    return true
+    if ( ahmad === user ) {
+        return action
+    }
 }
