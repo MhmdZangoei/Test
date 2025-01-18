@@ -15,3 +15,6 @@ if (cld ==  sd) {
         return action
     }
 }
+initstate = () => {
+    
+}
